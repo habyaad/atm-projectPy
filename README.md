@@ -1,2 +1,8 @@
 # atm-projectPy
 school project
+ATM SIMULATOR IN PYTHON
+
+-FEATURES-
+CASH TRANSACTION
+CURRENCY CONVERTER
+e.t.c
